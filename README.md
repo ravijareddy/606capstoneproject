@@ -5,6 +5,8 @@
 This project combines Sentiment Analysis and a Content-Based Recommendation System to analyze text data and recommend items based on user preferences. Using state-of-the-art Natural Language Processing (NLP) models, the system processes textual content to extract sentiments and generate meaningful recommendations.
 
 Features
+## DataSet Link:
+https://drive.google.com/file/d/1omBK4sbebDNdsyuq3QOSyUmTBqf6pCNr/view?usp=drive_link
 
 ## Sentiment Analysis:
 
