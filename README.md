@@ -97,3 +97,17 @@ Integrate user feedback for collaborative filtering.
 Explore hybrid recommendation systems combining content-based and collaborative methods.
 
 Optimize computational efficiency for real-time applications.
+
+## References:
+1.	NYT articles: 2.1M+ (2000-Present) daily updated. (2024, November 30). Kaggle. https://www.kaggle.com/datasets/aryansingh0909/nyt-articles-21m-2000-present 
+2.	Jemai, Fatma & Hayouni, Mohamed & Baccar, Sahbi. (2021). Sentiment Analysis Using Machine Learning Algorithms. 775-779. 10.1109/IWCMC51323.2021.9498965.  (PDF) Sentiment Analysis Using Machine Learning Algorithms 
+3.	Gupta, S., Ranjan, R., & Singh, S. N. (2024). Comprehensive Study on Sentiment Analysis: From Rule-based to modern LLM  based system. arXiv (Cornell University). https://doi.org/10.48550/arxiv.2409.09989 
+4.	Y. Chandra and A. Jana, "Sentiment Analysis using Machine Learning and Deep Learning," 2020 7th International Conference on Computing for Sustainable Global Development (INDIACom), New Delhi, India, 2020, pp. 1-4, doi: 10.23919/INDIACom49435.2020.9083703.  Sentiment Analysis using Machine Learning and Deep Learning | IEEE Conference Publication | IEEE Xplore
+
+## Team Members
+Mohammad Abusufiyan
+
+Poornima Kolasani
+
+Ravija Vangala
+
