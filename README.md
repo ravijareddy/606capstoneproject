@@ -10,7 +10,7 @@ Dataset after cleaning the data for doing sentiment analysis.
 
 https://drive.google.com/file/d/1omBK4sbebDNdsyuq3QOSyUmTBqf6pCNr/view?usp=drive_link
 
-Dataset after doing sentiment analysis for recommendation system.
+Dataset after implimenting  News recommendation system using Sentiment Analysis.
 
 https://drive.google.com/file/d/1hczTvBZQCHfAfoN6Z-XrI7O9_YNEe8nE/view?usp=drive_link
 
